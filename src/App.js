@@ -11,9 +11,9 @@ function App() {
     <div>
       <Navigate/>
       <Routes>
-        <Route path='' element={<Home/>}/>
-        <Route path='blogs' element={<Blogs/>}/>
-        <Route path='contact' element={<Contact/>}/>
+        <Route path='/mockqn-Routers' element={<Home/>}/>
+        <Route path='/mockqn-Routers/blogs' element={<Blogs/>}/>
+        <Route path='/mockqn-Routers/contact' element={<Contact/>}/>
       </Routes>
     </div>
   );
