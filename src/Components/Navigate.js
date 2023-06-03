@@ -1,9 +1,9 @@
 const Navigate=()=>{
     return(
         <div>
-            <a href='/'>Home</a>
-            <a href='blogs'>Blogs</a>
-            <a href='contact'>Contact</a>
+            <a href='/mockqn-Routers'>Home</a>
+            <a href='/mockqn-Routers/blogs'>Blogs</a>
+            <a href='/mockqn-Routers/contact'>Contact</a>
         </div>
     )
 }
